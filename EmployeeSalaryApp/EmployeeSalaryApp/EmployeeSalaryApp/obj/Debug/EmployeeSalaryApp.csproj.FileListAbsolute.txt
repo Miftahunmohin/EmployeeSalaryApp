@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe.config
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.exe
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\bin\Debug\EmployeeSalaryApp.pdb
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.EmployeeSalaryUI.resources
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.exe
+C:\Users\PC21\Desktop\EmployeeSalaryApp\EmployeeSalaryApp\obj\Debug\EmployeeSalaryApp.pdb
